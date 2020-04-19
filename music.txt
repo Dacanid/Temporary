@@ -1,4 +1,4 @@
-#教程
+#教程（适用于iOS端Quantumult X软件）
 https://www.notion.so/Quantumult-X-e725340da5cc408b98899f6834410b28
 #证书链接
 https://raw.githubusercontent.com/nondanee/UnblockNeteaseMusic/master/ca.crt
