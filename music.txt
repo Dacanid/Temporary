@@ -1,0 +1,20 @@
+#教程
+https://www.notion.so/Quantumult-X-e725340da5cc408b98899f6834410b28
+#证书链接
+https://raw.githubusercontent.com/nondanee/UnblockNeteaseMusic/master/ca.crt
+
+[filter_remote]
+https://raw.githubusercontent.com/demo2099/QTXScripts/master/filter/NeteaseMusic.list, tag=解锁网易云音乐, force-policy=🎸解锁网易云音乐, enabled=true
+
+[filter_local]
+#网易云音乐
+host-suffix, music.126.net, direct
+
+[server_local]
+# 配置本地节点
+
+shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com, fast-open=false, udp-relay=false, tag=🎧 解锁网易云音乐
+http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=🎧 解锁网易云音乐2
+http=music.desperadoj.com:30002, username=Netease Music, password=none, fast-open=false, udp-relay=false, tag=🎧 解锁网易云音乐3
+
+
