@@ -1,0 +1,4 @@
+#安装插件 使用Chrome浏览器，安装tampermonkey
+https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
+#安装脚本 greasyfork 站里的脚本
+https://bit.ly/2RPWJoD
